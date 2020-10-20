@@ -50,7 +50,7 @@ The sum of the minimum distance squared for our 199 datapoints is 162.3571, and 
 ![alt text](https://github.com/AdamShmanske/Baltimore-City-Employee-Salary-Cluster-Analysis/blob/main/Screen%20Shot%202020-10-20%20at%201.50.57%20PM.png)
 
 ### Calculating Datapoints Associated with Each Anchor
-For each individual datapoint, excel shows us the Z-Scores of the distance squared between each point and the 3 anchors.  By using a minimum function, we can find the minimum distance squared between the closest cluster point.  Using a Match function allows us to easily determine which anchor point this datapoint is closest to by using the minimum distance value.  Finally, using a countif function allows us to count the amount of datapoints that are associated with each individual anchor point.  These values are important as they show us the distribution of datapoints associated with each individual anchor.   
+For each individual datapoint, excel shows us the Z-Scores of the distance squared between each point and the 3 anchors.  This Z-Score tells us the amount of standard deviations above or below the average for an individual datapoint.  By using a minimum function, we can find the minimum distance squared between the closest cluster point.  Using a Match function allows us to easily determine which anchor point this datapoint is closest to by using the minimum distance value.  Finally, using a countif function allows us to count the amount of datapoints that are associated with each individual anchor point.  These values are important as they show us the distribution of datapoints associated with each individual anchor.   
 
 ![alt text](https://github.com/AdamShmanske/Baltimore-City-Employee-Salary-Cluster-Analysis/blob/main/Screen%20Shot%202020-10-20%20at%202.08.32%20PM.png)
 
@@ -65,8 +65,7 @@ This bar chart is a clear graphical representation of the datapoints associated 
 
 ## Businesss Answer
 
-
-
+The values of the amount of points associated with each cluster point is important information to know.  Roughly half of the employees working for Baltimore City are associated with Anchor 3, a datapoint that is just slightly below average in annual income and gross pay, and roughly average in total days worked.  This makes sense, as the vast majority of workers for the city fall right around the median in terms of annual income, gross pay, and days worked for Baltimore City.  Anchor 1, a cluster containing roughly 15% of the data, is a cluster with low income, low gross pay, and low total days worked.  These are likely new employees under Baltimore City, and they are contributing the least to the budget issues that the city is facing.  Anchor 3 is the group that has the most detrimental affect on Baltimore City's budget. Roughly 1/3 of Baltimore City employees are clustered into anchor 2, a group with high income, high gross pay, and high total days worked.  If Baltimore City wants to decrease their deficit, they must find a way to transition the majority of their workforce into Anchor 1.  This means they must find a way to get new hires, who average lower gross pay and annual income.  Baltimore City also can try to incentivize Anchor 2 employees to retire.  Since these employees have worked on average significantly longer than the other clusters, they are likely to be older and nearing retirement age.  If Baltimore can incentivize their older, higher earning, anchor 2 related employees to retire while simultaneously filling these positions with younger, lower earning, anchor 3 employees this can help to balance their budget and lower fixed costs for the city.
 
 
 ## Excel Directions
