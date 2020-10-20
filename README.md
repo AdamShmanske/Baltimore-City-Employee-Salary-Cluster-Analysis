@@ -54,6 +54,14 @@ For each individual datapoint, excel shows us the Z-Scores of the distance squar
 
 ![alt text](https://github.com/AdamShmanske/Baltimore-City-Employee-Salary-Cluster-Analysis/blob/main/Screen%20Shot%202020-10-20%20at%202.08.32%20PM.png)
 
+### Graphical Representation
+This bar chart is a clear graphical representation of the datapoints associated with each anchor.  Anchor 1 clearly has the least data points associated most closely with it (31), followed by Anchor 2 in the middle (64), and Anchor 3 having the most datapoints (104).  However, just knowing that the most datapoints are associated with Anchor 3 is not very useful unless it is put into context. 
+
+-Anchor 1 is the cluster with the least datapoints in it (31).  This means that most of the Baltimore City employees do not fall most closely under a low annual income, low gross pay, and low total days worked cluster.
+
+-Anchor 2 is the cluster with a moderate amount of datapoints in it (64).  This means that a relatively average amount (almost 1/3) of employees in Baltimore City fall most closely under a high annual income, high gross pay, and high total days worked cluster.
+
+-Anchor 3 is the cluster with over half of the total amount of data points in it (104). This means that a relatively large amount of Baltimore City employees are most closely aligned with a slightly low annual income, slightly low gross pay, and roughly average total days worked cluster.
 
 ## Businesss Answer
 
