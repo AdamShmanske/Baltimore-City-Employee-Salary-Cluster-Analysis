@@ -31,7 +31,7 @@ Baltimore City provides a large amount of [data](https://data.baltimorecity.gov/
 ## Data Question and Graphical Answer
 ### How are employees in Baltimore City clustered based upon gross pay, annual pay, and days worked?
 
-The Baltimore City employee data points were clustered by 3 different anchors.  These clusters were determined using the Solver function on Microsoft Excel.  Below is a picture of the 3 cluster points that excel choose in order to minimize Z-Scores between all other data points.
+The Baltimore City employee data points were clustered by 3 different anchors.  These clusters were determined using the Solver function on Microsoft Excel.  Below is a picture of the 3 cluster points that excel chose in order to minimize Z-Scores between all other data points.  The anchors can be classified as greater or lower than the average value based upon the Z-Scores given. 
 
 ![alt text](https://github.com/AdamShmanske/Baltimore-City-Employee-Salary-Cluster-Analysis/blob/main/Screen%20Shot%202020-10-20%20at%201.50.14%20PM.png)
 
@@ -42,13 +42,15 @@ Anchor 2 is a cluster of high annual income, high gross pay, and high total days
 ### Anchor 3
 Anchor 3 is a cluster that is slightly low annual income, slightly low gross pay, and roughly average total days worked
 
-
-
 ![alt text](https://github.com/AdamShmanske/Baltimore-City-Employee-Salary-Cluster-Analysis/blob/main/Screen%20Shot%202020-10-20%20at%202.13.42%20PM.png)
 
+### Sum of minimum distance squared and average minimum distance squared.
+The sum of the minimum distance squared for our 199 datapoints is 162.3571, and the average minimum distance squared is 0.815864824.  This low average minimum distance squared value means that most of our datapoints are close to their nearest cluster.
 
 ![alt text](https://github.com/AdamShmanske/Baltimore-City-Employee-Salary-Cluster-Analysis/blob/main/Screen%20Shot%202020-10-20%20at%201.50.57%20PM.png)
 
+### Calculating Datapoints Associated with Each Anchor
+For each individual datapoint, excel shows us the Z-Scores of the distance squared between each point and the 3 anchors.  By using a minimum function, we can find the minimum distance squared between the closest cluster point.  Using a Match function allows us to easily determine which anchor point this datapoint is closest to by using the minimum distance value.  Finally, using a countif function allows us to count the amount of datapoints that are associated with each individual anchor point.  These values are important as they show us the distribution of datapoints associated with each individual anchor.   
 
 ![alt text](https://github.com/AdamShmanske/Baltimore-City-Employee-Salary-Cluster-Analysis/blob/main/Screen%20Shot%202020-10-20%20at%202.08.32%20PM.png)
 
