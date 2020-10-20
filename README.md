@@ -35,6 +35,7 @@ Baltimore City provides a large amount of [data](https://data.baltimorecity.gov/
 ![alt text](https://github.com/AdamShmanske/Baltimore-City-Employee-Salary-Cluster-Analysis/blob/main/Screen%20Shot%202020-10-20%20at%201.50.14%20PM.png)
 
 
+![alt text](https://github.com/AdamShmanske/Baltimore-City-Employee-Salary-Cluster-Analysis/blob/main/Screen%20Shot%202020-10-20%20at%202.13.42%20PM.png)
 
 
 ## Businesss Answer
