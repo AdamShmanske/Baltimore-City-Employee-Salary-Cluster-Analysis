@@ -9,5 +9,19 @@ How are employees in Baltimore City grouped based upon gross pay, annual pay, an
 
 ## Data Question - Open Data
 [Baltimore City Open Data Source](https://data.baltimorecity.gov/City-Government/Baltimore-City-Employees-Salaries/w28m-utix)
+Data source contains:
 
-[My raw data downloaded]
+-Employee ID
+
+-Employee Name
+
+-Job Title
+
+-Annual Salary
+
+-Gross Pay
+
+-Start Date
+
+[My raw data downloaded] FINISH
+
