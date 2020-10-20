@@ -32,6 +32,10 @@ Baltimore City provides a large amount of [data](https://data.baltimorecity.gov/
 ### How are employees in Baltimore City clustered based upon gross pay, annual pay, and days worked?
 
 
+![alt text](https://github.com/AdamShmanske/Baltimore-City-Employee-Salary-Cluster-Analysis/blob/main/Screen%20Shot%202020-10-20%20at%201.50.14%20PM.png)
+
+
+
 
 ## Businesss Answer
 
