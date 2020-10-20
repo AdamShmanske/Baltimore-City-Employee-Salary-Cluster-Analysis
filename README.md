@@ -40,4 +40,4 @@ Baltimore City provides a large amount of [data](https://data.baltimorecity.gov/
 
 
 ## Excel Directions
-Detailed instructions and all calculations performed in this project can be found by clicking [this link](https://github.com/AdamShmanske/Baltimore-City-Employee-Salary-Cluster-Analysis/blob/main/Raw%20Data:Excel%20Directions%20MiniProject%233%20-%20Adam%20Shmanske.xls).
+Raw data along with detailed instructions on all calculations performed in this project can be found by clicking [this link](https://github.com/AdamShmanske/Baltimore-City-Employee-Salary-Cluster-Analysis/blob/main/Raw%20Data:Excel%20Directions%20MiniProject%233%20-%20Adam%20Shmanske.xls).
