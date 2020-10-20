@@ -40,7 +40,7 @@ Anchor 1 is a cluster of low annual income, low gross pay, and low total days wo
 ### Anchor 2
 Anchor 2 is a cluster of high annual income, high gross pay, and high total days worked (all by around 1 standard deviation above)
 ### Anchor 3
-Anchor 3 is a cluster that is slightly low annual income, slightly low gross pay, and roughly average total days worked (all less than 0.5 standard deviations)
+Anchor 3 is a cluster that is slightly low annual income, slightly low gross pay, and roughly average total days worked (all by less than 0.5 standard deviations)
 
 ![alt text](https://github.com/AdamShmanske/Baltimore-City-Employee-Salary-Cluster-Analysis/blob/main/Screen%20Shot%202020-10-20%20at%202.13.42%20PM.png)
 
