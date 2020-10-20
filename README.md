@@ -24,7 +24,8 @@ Baltimore City provides a large amount of [data](https://data.baltimorecity.gov/
 
 -Start Date (used to calculate total days worked for employee)
 
-[My raw data downloaded] FINISH
+[My raw data downloaded](https://github.com/AdamShmanske/Baltimore-City-Employee-Salary-Cluster-Analysis/blob/main/Raw%20Data:Excel%20Directions%20MiniProject%233%20-%20Adam%20Shmanske.xls)
+[Cleaned up data used for project and step by step analyis] FINISH
 
 
 ## Data Question and Graphical Answer
@@ -39,4 +40,4 @@ Baltimore City provides a large amount of [data](https://data.baltimorecity.gov/
 
 
 ## Excel Directions
-Detailed instructions and all calculations performed in this project can be found by clicking [this link.].  FINISH
+Detailed instructions and all calculations performed in this project can be found by clicking [this link](https://github.com/AdamShmanske/Baltimore-City-Employee-Salary-Cluster-Analysis/blob/main/Raw%20Data:Excel%20Directions%20MiniProject%233%20-%20Adam%20Shmanske.xls).
